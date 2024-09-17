@@ -1,0 +1,42 @@
+
+
+body{
+    scrollbar-color: #0D6EFD #0000006e;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top:3px double #0D6EFD !important;
+    background-color: #000000cc;
+}
+.underline{
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    width: 90%;
+    
+    border-bottom: 1px solid #0d6dfdad;
+}
+.img-custom {
+    border-radius: 50%;
+    border: 4px solid #0D6EFD;
+}
+#app{
+    width: 100%;
+    height: 100vh;
+}
+.pb-custom{
+    padding-bottom: 8rem !important;
+}
+.pos-custom{
+    position: absolute;
+    top: 8%;
+    right: 8%;
+}
+
+.bg-light-custom{
+    background-color: rgba(255, 255, 255, 0.795);
+}
+.bg-dark-custom{
+    background-color: rgba(0, 0, 0, 0.733);
+}
